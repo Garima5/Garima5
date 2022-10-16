@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain, Web3, Information Design, Augmented reality and New Media Content Creation
 - 🌱 I’m currently learning Web3 Full Stack Development
 - 💞️ I’m looking to collaborate on Smart Contract Development and Full Stack Projects
-- 📫 How to reach me garimaaggarwal55@gmail.com
+- 📫 How to reach me on Linkedin https://www.linkedin.com/in/garimaaggarwal500/ or twitter - @GarimaA60302335
 
 <!---
 Garima5/Garima5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
